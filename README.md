@@ -114,7 +114,6 @@
   <img src="/assets/anime_glasses.gif" width="150" align="right"/>
   <div align="center">
     <p>
-      <br><br>
       Feel free to ping me!
       <br>
       <i>I'm open to chat with anyone as long as you clearly state who you are and your intentions.</i>
