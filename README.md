@@ -4,7 +4,7 @@
 <!-- About Me -->
 <div>
   <h1 align="center">About me</h1>
-  <img src="/assets/anime_code_laptop.gif" align="right" height="190" align="right"/>
+  <img src="/assets/anime_code_laptop.gif" align="right" height="200" align="right"/>
   <p>
     I'm an undergraduate student currently studying Computer Science at Binus University.
     <ul>
@@ -36,6 +36,7 @@
   </details>
 -->
 </div>
+<br>
 <!-- Knowledge -->
 <div>
   <h1 align="center">Knowledge</h1>
