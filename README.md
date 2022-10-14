@@ -111,7 +111,7 @@
 <!-- Contacts -->
 <div>
   <h1 align="center">Contacts</h1>
-  <img src="/assets/anime_glasses.gif" width="150" align="right"/>
+  <img src="/assets/anime_glasses.gif" width="170" align="right"/>
   <div align="center">
     <p>
       Feel free to ping me!
@@ -122,7 +122,7 @@
       <a href="https://www.linkedin.com/in/alberterc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
 </div>
-<br>
+<br><br><br><br>
 <div align="center">
   <h1 align="center">Github Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=radxgh&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
