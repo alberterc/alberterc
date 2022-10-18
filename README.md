@@ -52,7 +52,7 @@
   
   <h3>Frameworks</h3>
   <ul>
-    <li>Jetpack Compose</li>
+    <li>Jetpack Compose from Compose Multiplatform</li>
   </ul>
   
   <h3>Databases</h3>
