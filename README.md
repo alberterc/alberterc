@@ -12,7 +12,10 @@
       <li>Gender: He/Him</li>
       <li>Interests: Tech related, Software developments, Problem solving</li>
       <li>Loves: anime, games, productivity</li>
-      <li>Current project: <a href="https://github.com/RadXGH/AnKunv2">AnKunv2</a></li>
+      <li>Current project: 
+<!--         <a href="https://github.com/RadXGH/AnKunv2">AnKunv2</a> -->
+        - [Busy with university]
+      </li>
     </ul>
   </p>
 <!-- Interests -->
