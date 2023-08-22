@@ -57,6 +57,7 @@
   <h3>Frameworks</h3>
   <ul>
     <li>Jetpack Compose from Compose Multiplatform</li>
+    <li>Alpaca Forms (AlpacaJS)</li>
   </ul>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
