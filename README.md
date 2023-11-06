@@ -144,8 +144,8 @@
 <br><br><br><br>
 <div align="center">
   <h1 align="center">Github Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=radxgh&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radxgh&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alberterc&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberterc&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
 </div>
 <!-- Visitor Badge -->
 <!-- <div align="center">
