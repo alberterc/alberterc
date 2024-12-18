@@ -1,5 +1,5 @@
 ### Hi!
-I am an undergraduate student currently studying Computer Science at Binus University.
+I am a graduate of Bachelor of Science in Computer Science at Binus University.
 
 ## GitHub Overview
 |[![alberterc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberterc&layout=compact&langs_count=6&theme=transparent&hide_border=true)](#)|![alberterc's github stats](https://github-readme-stats.vercel.app/api?username=alberterc&show_icons=true&theme=transparent&hide_border=true)|
